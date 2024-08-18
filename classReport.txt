@@ -1,0 +1,23 @@
+First Name          Last Name           Score     Grade
+Bill                Gates               95         A
+Isaac               Newton              90         A
+David               Beckham             88         B
+Taylor              Swift               83         B
+Elon                Musk                82         B
+Kamala              Harris              80         B
+Stevie              Wonder              75         C
+Celine              Dion                72         C
+Tiger               Woods               69         D
+Tony                Brando              68         D
+Michael             Jackson             63         D
+Shania              Twayne              60         D
+Joe                 Biden               60         D
+James               Brown               56         E
+Meghan              Markle              55         E
+Mike                Tyson               51         E
+Sylvester           Stallone            43         F
+Donald              Trump               42         F
+Johnny              Bravo               28         F
+Forrest             Gump                15         F
+
+The student with the highest score is Bill Gates with a score of 95
